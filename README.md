@@ -31,7 +31,7 @@ A comprehensive penetration testing toolkit for detecting end-of-life (EOL) fram
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/eol-security-scanner.git
+git clone https://github.com/TheMajical/eol-security-scanner.git
 cd eol-security-scanner
 ```
 
